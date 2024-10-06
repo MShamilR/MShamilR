@@ -1,5 +1,6 @@
-## Hola👋, Shamil here...
+## Hola👋
 
+⚙️ Backend Buff | Frontend Flair | Self-Taught Maverick on a Tech Odyssey 🛠️
 <!--
 **MShamilR/MShamilR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
