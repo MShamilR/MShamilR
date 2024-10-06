@@ -1,6 +1,8 @@
 ## Hola👋
 
 ⚙️ Backend Buff | Frontend Flair | Self-Taught Maverick on a Tech Odyssey 🛠️
+
+![](https://komarev.com/ghpvc/?username=MShamilR)
 <!--
 **MShamilR/MShamilR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
