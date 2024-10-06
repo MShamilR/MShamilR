@@ -2,6 +2,11 @@
 
 ⚙️ Backend Buff | Frontend Flair | Self-Taught Maverick on a Tech Odyssey 🛠️
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MShamilR" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShamilR&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ![](https://komarev.com/ghpvc/?username=MShamilR)
 <!--
 **MShamilR/MShamilR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
